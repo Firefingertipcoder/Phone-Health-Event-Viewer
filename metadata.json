@@ -1,0 +1,6 @@
+{
+  "name": "Phone Health Event Viewer",
+  "description": "Real-time event viewer for monitoring battery, storage, thermal metrics, usage events, and background apps with C++ NDK optimization and Room database persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
