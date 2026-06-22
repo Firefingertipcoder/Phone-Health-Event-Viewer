@@ -1,5 +1,5 @@
 <div align="center">
-<img src="E:\phone-health-event-viewer\phone event viewer images\WhatsApp Image 2026-06-22 at 6.39.01 PM (1).jpeg" alt = "No image" />
+<img src="<img src="phone%20event%20viewer%20images/WhatsApp%20Image%202026-06-22%20at%206.39.01%20PM%20(1).jpeg" alt="Project Screenshot" />" alt = "No image" />
 </div>
 
 # Run and deploy your AI Studio app
